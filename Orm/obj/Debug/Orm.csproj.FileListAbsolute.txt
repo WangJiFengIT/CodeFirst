@@ -1,0 +1,2 @@
+F:\MyFile\Project\CodeFirst\CodeFirst\Orm\obj\Debug\Orm.csprojAssemblyReference.cache
+F:\MyFile\Project\CodeFirst\CodeFirst\Orm\obj\Debug\Orm.csproj.CoreCompileInputs.cache
